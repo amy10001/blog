@@ -1,4 +1,14 @@
-baseURL = 'https://github.com/amy10001/blog'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "hugo-theme-minos"
+baseURL = "https://amy10001.github.io/blog/"
+languageCode = "en-us"
+title = "Amelia's Blog"
+theme = "m10c"
+
+[params]
+  author = "Amelia"
+  description = "A blog about all things technical."
+
+  [[params.social]]
+    icon = "github"
+    name = "GitHub"
+    url = "https://github.com/amy10001"
+
