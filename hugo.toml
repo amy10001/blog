@@ -1,11 +1,11 @@
 baseURL = "https://amy10001.github.io/blog/"
 languageCode = "en-us"
 title = "Amelia's Blog"
-theme = "m10c"
+theme = "minos"
 
 [params]
   author = "Amelia"
-  description = "A blog about all things technical."
+  description = "The hours."
 
   [[params.social]]
     icon = "github"
